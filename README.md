@@ -98,6 +98,9 @@ Digite a senha: ********
 
 PDF protegido com sucesso!
 ```
+## Vídeo
+
+- YouTube: [Alan Silva](https://youtu.be/R2n0G7xqJFg)
 
 ## Contribuição
 
