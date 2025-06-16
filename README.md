@@ -102,7 +102,7 @@ PDF protegido com sucesso!
 
 - YouTube: [COLOCANDO SENHA EM ARQUIVO PDF](https://youtu.be/R2n0G7xqJFg)
 
-## CONFIRA O VÍDEO: QUEBRE SENHAS DE PDFS COM PYTHON
+## Confira o vídeo: QUEBRE SENHAS DE PDFS COM PYTHON
 
 - YouTube: [QUEBRE SENHAS DE PDFS COM PYTHON! ATAQUE DE FORÇA BRUTA SIMPLES](https://www.youtube.com/watch?v=83E1aHtWY3k)
 
